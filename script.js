@@ -1,0 +1,1 @@
+alert("Weekly Bulletin: Our next scheduled meeting is at 4.30pm Nomash Building!")
